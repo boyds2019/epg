@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",GLOBO
+https://live-01.edge-atel-pnz-pe.video.globo.com/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJnbG9ib0lkIjoiZGM0NzcyOTQtY2RmYS00MTU3LTlkOGMtZTBkZTc0YmFhMGJlIiwgInVzZXJOYW1lIjoiQ2xheXRvbiBNb2RzIiwgInBob3RvVXJsIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKd3daN0g2eVhOQTk3U2txY1plZ2pKWW40Q1ZLNndJb2tXczlPTGY9czk2LWMifQ.V3hsbeZGGc6uQKVK3j1hmZSAykfEgmaH7cRzqXt08ky8naEvikirtTlR63LBJDTtDg5JHA6UpjAEVvhUm9_bmlc5dHCDykJEBZzNX0yFVCpTAx8UtsaJRFofcjrOG1jmNJ3RSkgodob7_9YDWHW_TFjmhYxphrUCGQ_Rnak7qfY9sHWx52hWus-dsDHELmOqW4Wje571AnQUppN8AUHKcWMXsrfy92a4TbvC8SOPv7u5SwakupVF1F2oDFH_CxYmB7UF1SxLjGZgv6iwMh7F_VONGQa587vgCS8qI8E_W4PWKigPElvzQ3_RlnnOWHhmZpH07_fckjlRxYLK3fEN0lw/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",MEGAPIX
+https://server100.online/megapix/tracks-v1a1/mono.m3u8?remote=138.185.58.77&token=e740bfdf49db3aa68ced4f034b978ddea3cfcde1-a5ea74128c9bdb356a2399edd0e122d7-1682381397-1682377797
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",TELE CINE PREMIUM
+https://server100.online/telecine-premium/tracks-v1a1/mono.m3u8?remote=138.185.58.77&token=32da4cb088f182baf2fe2f9be63c357e5c19873f-493d6f071f80c54fd434eaab0c0824b0-1682381472-1682377872
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",PREMIERE CLUBE
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=138.185.58.77&token=263fb05aa788faeb7e416dfbbe9cc88c2f8461a7-86f2a7f9ddf7111ab1c6758c1061770e-1682381555-1682377955
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",HISTORY 2
+https://br.embedflix.net/p2p/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIzIDExOjI1OjUzIFBNJmhhc2hfdmFsdWU9UWdWNG04Nk9Ec1pTL3ZVS3pncGNOZz09JnZhbGlkbWludXRlcz05MA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ABERTA",SONY
+https://server100.online/sony/tracks-v1a1/mono.m3u8?remote=138.185.58.77&token=c9d98fe38f0be5de112e3ae4f6e60c1f249488f6-fe52c5d3ce8aab9230706da0524eb626-1682381739-1682378139
+
+
